@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_status_open_mode">
+    <item>전체공개</item>
+    <item>친구공개</item>
+    <item>비공개</item>
+    </string-array>
+</resources>
